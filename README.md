@@ -3,6 +3,12 @@
 CodeMaker is an interactive coding learning platform built with Django (backend) and React (frontend).
 It provides courses, lessons, quizzes, progress tracking, and gamification to make learning to code fun and engaging. Inspired by platforms like SoloLearn, but with more flexibility and modern features.
 
+
+
+https://github.com/Aqibkhan037/CodeMaker/blob/main/Playground_Page.jpg
+
+
+
 ✨ Features
 
 👤 User Authentication – Signup, login, and profile management
