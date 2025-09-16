@@ -8,6 +8,7 @@ It provides courses, lessons, quizzes, progress tracking, and gamification to ma
 https://github.com/Aqibkhan037/CodeMaker/blob/main/Playground_Page.jpg
 https://github.com/Aqibkhan037/CodeMaker/blob/main/Dashboard.jpg
 https://github.com/Aqibkhan037/CodeMaker/blob/main/Sreaks_page.jpg
+
 https://github.com/Aqibkhan037/CodeMaker/blob/main/Catalog.jpg
 
 
